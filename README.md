@@ -1,17 +1,17 @@
 ### 👩‍💻About me..
 
-Hi, I'm Cossette Palomino, an Engineer specialized in Energy Technologies with a focus in IoT and Energy Efficiency.
-Currently, I'm in the final stages of my Data Scientist course at the TripleTen Bootcamp, ready to apply my newfound knowledge.
-My expertise in data science is complemented by my experience in Business Analysis, creating a unique skill set that bridges technology and business insight.
+Hi, **I'm Cossette Palomino, a Data Scientits** with experience in different industries like Energy, IoT , Marketing among others.
+I´m keen on to applying my Data skills set to help you understand your business and create valuable strategies that **will drive you to the next level!**
+My expertise in data science is complemented by my **experience in Business and Data Analysis**, creating a unique skill set that bridges technology and business insight.
 
 ### 💡Interests:
-- Problem-Solving: I thrive on tackling complex challenges and finding innovative solutions.
-- Technology: I'm passionate about the latest advancements and how they can be applied to improve systems and processes.
-- Business: I enjoy understanding business dynamics and leveraging data to drive strategic decisions.
+- **Problem-Solving:** I thrive on tackling complex challenges and finding innovative solutions.
+- **Technology:** I'm passionate about the latest advancements and how they can be applied to improve systems and processes.
+- **Business:** I enjoy understanding business dynamics and leveraging data to drive strategic decisions.
 
  
 ### ⚡ Goals:
-Professionally, I aim to help companies maximize the value of their data through analysis and machine learning. My goal is to facilitate and substantiate their decision-making processes, ensuring they are data-driven and efficient.
+Professionally, I aim to help companies **maximize the value of their data** through analysis and machine learning. My goal is to facilitate and substantiate their decision-making processes, ensuring they are data-driven and efficient.
 I look forward to contributing to a smarter, connected, and sustainable future by integrating technology with business strategies.
 
 [![Linkedin Badge](https://img.shields.io/badge/-CossettePalomino-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/cossettepalomino/)
