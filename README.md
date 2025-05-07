@@ -1,6 +1,6 @@
 ### 👩‍💻About me..
 
-Hi, **I'm Cossette Palomino, a Data Scientits** with experience in different industries like Energy, IoT , Marketing among others.
+Hi, **I'm Cossette Palomino, a Data Scientist** with experience in different industries like Energy, IoT , Marketing among others.
 I´m keen on to applying my Data skills set to help you understand your business and create valuable strategies that **will drive you to the next level!**
 My expertise in data science is complemented by my **experience in Business and Data Analysis**, creating a unique skill set that bridges technology and business insight.
 
